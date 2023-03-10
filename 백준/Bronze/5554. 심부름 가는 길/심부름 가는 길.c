@@ -1,0 +1,1 @@
+a,b,c,d;main(){scanf("%d",&a);scanf("%d",&b);scanf("%d",&c);scanf("%d",&d);printf("%d\n",(a+b+c+d)/60);printf("%d",(a+b+c+d)%60);}
